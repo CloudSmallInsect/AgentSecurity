@@ -1,0 +1,366 @@
+================================================================================
+文件信息列表
+生成时间: 2025-07-24 10:06:18
+================================================================================
+
+统计信息:
+  总文件数: 28
+  总目录数: 16
+  总大小: 40.02 KB
+
+--------------------------------------------------------------------------------
+详细信息:
+--------------------------------------------------------------------------------
+
+   1. 【文件】 applypatch-msg.sample
+      路径: /workspace/AgentSecurity/.git/hooks/applypatch-msg.sample
+      大小: 478.00 B
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+   2. 【文件】 commit-msg.sample
+      路径: /workspace/AgentSecurity/.git/hooks/commit-msg.sample
+      大小: 896.00 B
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+   3. 【文件】 config
+      路径: /workspace/AgentSecurity/.git/config
+      大小: 348.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:05:56
+      创建时间: 2025-07-24 10:05:56
+      访问时间: 2025-07-24 10:05:56
+
+   4. 【文件】 description
+      路径: /workspace/AgentSecurity/.git/description
+      大小: 73.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+   5. 【文件】 exclude
+      路径: /workspace/AgentSecurity/.git/info/exclude
+      大小: 240.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:09
+
+   6. 【文件】 fsmonitor-watchman.sample
+      路径: /workspace/AgentSecurity/.git/hooks/fsmonitor-watchman.sample
+      大小: 4.62 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+   7. 【文件】 HEAD
+      路径: /workspace/AgentSecurity/.git/HEAD
+      大小: 21.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:14
+
+   8. 【文件】 HEAD
+      路径: /workspace/AgentSecurity/.git/refs/remotes/origin/HEAD
+      大小: 30.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:16
+
+   9. 【文件】 HEAD
+      路径: /workspace/AgentSecurity/.git/logs/HEAD
+      大小: 371.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  10. 【文件】 HEAD
+      路径: /workspace/AgentSecurity/.git/logs/refs/remotes/origin/HEAD
+      大小: 201.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  11. 【文件】 index
+      路径: /workspace/AgentSecurity/.git/index
+      大小: 137.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:05:46
+      创建时间: 2025-07-24 10:05:46
+      访问时间: 2025-07-24 10:05:49
+
+  12. 【文件】 list_files.py
+      路径: /workspace/AgentSecurity/list_files.py
+      大小: 7.46 KB
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:06:15
+      创建时间: 2025-07-24 10:06:15
+      访问时间: 2025-07-24 10:06:18
+
+  13. 【文件】 main
+      路径: /workspace/AgentSecurity/.git/refs/heads/main
+      大小: 41.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  14. 【文件】 main
+      路径: /workspace/AgentSecurity/.git/logs/refs/heads/main
+      大小: 201.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:05:56
+
+  15. 【文件】 pack-1e2bc65c31299df9a13d8b3a6ea3e0850f45b748.idx
+      路径: /workspace/AgentSecurity/.git/objects/pack/pack-1e2bc65c31299df9a13d8b3a6ea3e0850f45b748.idx
+      大小: 1.54 KB
+      权限: -r--r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  16. 【文件】 pack-1e2bc65c31299df9a13d8b3a6ea3e0850f45b748.pack
+      路径: /workspace/AgentSecurity/.git/objects/pack/pack-1e2bc65c31299df9a13d8b3a6ea3e0850f45b748.pack
+      大小: 6.06 KB
+      权限: -r--r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  17. 【文件】 packed-refs
+      路径: /workspace/AgentSecurity/.git/packed-refs
+      大小: 112.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  18. 【文件】 post-update.sample
+      路径: /workspace/AgentSecurity/.git/hooks/post-update.sample
+      大小: 189.00 B
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  19. 【文件】 pre-applypatch.sample
+      路径: /workspace/AgentSecurity/.git/hooks/pre-applypatch.sample
+      大小: 424.00 B
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  20. 【文件】 pre-commit.sample
+      路径: /workspace/AgentSecurity/.git/hooks/pre-commit.sample
+      大小: 1.60 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  21. 【文件】 pre-merge-commit.sample
+      路径: /workspace/AgentSecurity/.git/hooks/pre-merge-commit.sample
+      大小: 416.00 B
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  22. 【文件】 pre-push.sample
+      路径: /workspace/AgentSecurity/.git/hooks/pre-push.sample
+      大小: 1.34 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  23. 【文件】 pre-rebase.sample
+      路径: /workspace/AgentSecurity/.git/hooks/pre-rebase.sample
+      大小: 4.78 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  24. 【文件】 pre-receive.sample
+      路径: /workspace/AgentSecurity/.git/hooks/pre-receive.sample
+      大小: 544.00 B
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  25. 【文件】 prepare-commit-msg.sample
+      路径: /workspace/AgentSecurity/.git/hooks/prepare-commit-msg.sample
+      大小: 1.46 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  26. 【文件】 push-to-checkout.sample
+      路径: /workspace/AgentSecurity/.git/hooks/push-to-checkout.sample
+      大小: 2.72 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  27. 【文件】 README.md
+      路径: /workspace/AgentSecurity/README.md
+      大小: 264.00 B
+      权限: -rw-r--r--
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  28. 【文件】 update.sample
+      路径: /workspace/AgentSecurity/.git/hooks/update.sample
+      大小: 3.56 KB
+      权限: -rwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  29. 【目录】 branches
+      路径: /workspace/AgentSecurity/.git/branches
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:05:51
+
+  30. 【目录】 heads
+      路径: /workspace/AgentSecurity/.git/refs/heads
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:16
+
+  31. 【目录】 heads
+      路径: /workspace/AgentSecurity/.git/logs/refs/heads
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:05:51
+
+  32. 【目录】 hooks
+      路径: /workspace/AgentSecurity/.git/hooks
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:05:51
+
+  33. 【目录】 info
+      路径: /workspace/AgentSecurity/.git/info
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:05:51
+
+  34. 【目录】 info
+      路径: /workspace/AgentSecurity/.git/objects/info
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  35. 【目录】 logs
+      路径: /workspace/AgentSecurity/.git/logs
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:05:51
+
+  36. 【目录】 objects
+      路径: /workspace/AgentSecurity/.git/objects
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
+  37. 【目录】 origin
+      路径: /workspace/AgentSecurity/.git/refs/remotes/origin
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:16
+
+  38. 【目录】 origin
+      路径: /workspace/AgentSecurity/.git/logs/refs/remotes/origin
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:05:51
+
+  39. 【目录】 pack
+      路径: /workspace/AgentSecurity/.git/objects/pack
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  40. 【目录】 refs
+      路径: /workspace/AgentSecurity/.git/refs
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:09
+
+  41. 【目录】 refs
+      路径: /workspace/AgentSecurity/.git/logs/refs
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:05:51
+
+  42. 【目录】 remotes
+      路径: /workspace/AgentSecurity/.git/refs/remotes
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:04:16
+
+  43. 【目录】 remotes
+      路径: /workspace/AgentSecurity/.git/logs/refs/remotes
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:09
+      创建时间: 2025-07-24 10:04:09
+      访问时间: 2025-07-24 10:05:51
+
+  44. 【目录】 tags
+      路径: /workspace/AgentSecurity/.git/refs/tags
+      大小: 4.00 KB
+      权限: drwxr-xr-x
+      修改时间: 2025-07-24 10:04:08
+      创建时间: 2025-07-24 10:04:08
+      访问时间: 2025-07-24 10:04:08
+
